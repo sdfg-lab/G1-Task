@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-- Ibrahim Ashraf Fathy Elshafey
+- Ibrahim Ashraf Fathy El shafey
 
 
 This project is a starting point for a Flutter application.
